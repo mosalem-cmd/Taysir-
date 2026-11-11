@@ -2,9 +2,9 @@
   "name": "تيسير | Taysir",
   "short_name": "تيسير",
   "description": "منصة تيسير لحجز خدمات النقل والحلاقة والصيانة المنزلية في موريتانيا",
-  "start_url": "/",
-  "id": "/",
-  "scope": "/",
+  "start_url": "./",
+  "id": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#E8CBA0",
@@ -13,7 +13,7 @@
   "lang": "ar",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
